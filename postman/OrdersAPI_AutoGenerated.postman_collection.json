@@ -15,12 +15,12 @@
           }
         ],
         "url": {
-          "raw": "{{base_url}}/orders",
+          "raw": "{{base_url}}/objects",
           "host": [
             "{{base_url}}"
           ],
           "path": [
-            "orders"
+            "objects"
           ]
         }
       },
