@@ -1,4 +1,4 @@
-openapi: 3.0.3
+sopenapi: 3.0.3
 info:
   title: Orders API
   version: 1.0.0
@@ -7,7 +7,7 @@ servers:
   - url: https://api.example.com/v1
   - url: https://api.restful-api.dev
 paths:
-  /orders:
+  /objects:
     get:
       summary: List orders
       operationId: listOrders
