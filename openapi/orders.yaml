@@ -5,6 +5,7 @@ info:
   description: Sample Orders API created by AI-assisted flow
 servers:
   - url: https://api.example.com/v1
+  - url: https://api.restful-api.dev
 paths:
   /orders:
     get:
